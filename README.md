@@ -29,7 +29,7 @@
 - 프레임 워크 : Spring, MyBatis, IBatis, Bootstrap
 
 ## 프로젝트
-- JSP 프로젝트 :
+- JSP 프로젝트 : https://github.com/shinwr7/hongBapProject.git
 - Spring 프로젝트 : https://github.com/baeyongwoo/On-ffice-pj.git
  
 <!--
