@@ -1,4 +1,12 @@
 ### Hi there 👋
+#은 &lt;h1&gt;태그를 대신합니다.
+
+#2개는 h2고, #6개는 h6 를 대신합니다.
+
+- -는 목록입니다.
+  * 작대기 아래에 들여쓰기 + 별을 찍으면
+  * li 태그처럼 여러가지 목록을 나열할 수 있습니다.
+  
 
 <!--
 **shinwr7/shinwr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
