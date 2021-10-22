@@ -30,7 +30,7 @@
 
 ## 프로젝트
 - JSP 프로젝트 :
-- Spring 프로젝트 : 
+- Spring 프로젝트 : https://github.com/baeyongwoo/On-ffice-pj.git
  
 <!--
 **shinwr7/shinwr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
