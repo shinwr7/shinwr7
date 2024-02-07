@@ -1,4 +1,4 @@
-# 신입 개발자 신우람 🌱
+# 신우람 
 
 
 ## 학력
@@ -6,14 +6,13 @@
 
 
 ## 자격증
-- TOEIC 925
-- HSK 5급
-- 한국사능력검정시험 2급
-- 1종 보통 운전면허
+- SQL Developer 
 
 
 ## 경력 사항
 - 2018.02~2019.05 그랜드코리아레저(GKL) 카지노 딜러 근무
+- 2022.01.03~2022.03.30 (주)에스큐텍 입사, 농림축산검역 유지보수팀 근무
+- 2022.04.01~현재 (주)에스큐텍 개발팀 근무
 
 
 ## 교육 사항
@@ -22,11 +21,10 @@
 
 
 ## 사용 기술
-- OS 및 DB : Windows10, ORACLE, MySQL 
-- 사용 Tool : Eclipse
-- 프로그래밍 언어 : JAVA, Servlet, JSP
-- 웹 표준 기술 : HTML5, CSS, JAVAScript, JQuery, Ajax
-- 프레임 워크 : Spring, MyBatis, IBatis, Bootstrap
+- DB : ORACLE, MySQL 
+- 툴 : Eclipse, Visual Studio Code, draw.io, ERWin 
+- 언어 : JAVA, Servlet, JSP, Typescript
+- 프레임워크 : Spring, Spring boot, React, React-native
 
 ## 프로젝트
 - JSP 프로젝트 : https://github.com/shinwr7/hongBapProject.git
