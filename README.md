@@ -32,18 +32,18 @@
 KOICA 스리랑카 수출입 검역 시스템 개선 사업
 - 스리랑카 검역 업무 프로세스 분석, 설계
 - 프로젝트의 PAO(성과 관리 전문가) 역할 수행
-  : 영어 통역 및 각종 문서 번역 수행
-  : 스리랑카 공무원 대상 현지 연수 / 초청 연수 지원
+- 영어 통역 및 각종 문서 번역 수행
+- 스리랑카 공무원 대상 현지 연수 / 초청 연수 지원
 - 핵심 서비스(검역) 개발 수행
-  : 개발툴 - Visual Studio Code
-  : 백엔드 구성 - Java, Spring Boot, myBatis, Mysql, Docker
-  : 프론트엔드 구성 - React, Typescript, Redux, MUI
-  : 협업 - Git
+- 개발툴 : Visual Studio Code
+- 백엔드 구성 :  Java, Spring Boot, myBatis, Mysql, Docker
+- 프론트엔드 구성 : React, Typescript, Redux, MUI
+- 협업 : Git
   
 2022.01 ~ 2022.04 
 농림축산검역본부 KAHIS 유지보수
 - 차량 관제 웹 소스 디버깅 및 수정
-  : 전자정부프레임워크, Java, jsp
+- 기술스택 : 전자정부프레임워크, Java, jsp, SVN
 - 품질 관리
 
 ## 개인 프로젝트
